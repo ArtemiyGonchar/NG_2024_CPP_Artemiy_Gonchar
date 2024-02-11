@@ -6,7 +6,6 @@ int main()
 {
     int min = 0;
     int max = 0;
-    int thirdNumber = 0;
     int arraySize = 0;
     cout<<"Enter array size: ";
     cin>>arraySize;
